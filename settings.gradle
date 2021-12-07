@@ -1,0 +1,2 @@
+rootProject.name = "edu_1404_userList"
+include ':app'
